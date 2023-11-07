@@ -28,7 +28,7 @@ format:
 
 credit_(IPTC): 
 
-date_created_(IPTC):
+date_created_(IPTC): 1782
 
 _path:/assets/img/lvov_model_plan_1782_rev.jpg
 
