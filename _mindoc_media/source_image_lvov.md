@@ -1,40 +1,38 @@
---- 
+---
+page: 
 
-page: source_image_1.md
+title:
 
-title: Model Plan for a District Postal Station (1782)
+media_type:
 
-media_type: image
+_title:
 
-_title: Model Plan for a District Postal Station (Russian Empire, 1782)
+description:
 
-description: 
+creator:
 
-creator: 
+_date:
 
-_date: 
+rights:
 
-rights: 
+type:
 
-type: 
+source:
 
-source: 
+identifier:
 
-identifier: 
+contributor:
 
-contributor: 
+format:
 
-format: 
+credit_(IPTC):
 
-credit_(IPTC): 
+date_created_(IPTC):
 
-date_created_(IPTC): 1782
+_path:
 
-_path:/assets/img/lvov_model_plan_1782_rev.jpg
+order:
 
-order:  '01'
+layout:
 
-layout: image_description
-
---- 
-
+---
