@@ -1,11 +1,11 @@
 ---
-page: 
+page: 002_source
 
-title:
+title: Model Plan for a District Post Office (Russian Empire, 1782)
 
-media_type:
+media_type: image
 
-_title:
+_title: Model Plan for a District Post Office (Russian Empire, 1782)
 
 description:
 
@@ -31,8 +31,8 @@ date_created_(IPTC):
 
 _path: /assets/img/lvov_model_plan_1782_rev.jpg
 
-order:
+order: '01'
 
-layout:
+layout: image_description
 
 ---
