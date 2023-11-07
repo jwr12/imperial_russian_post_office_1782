@@ -29,7 +29,7 @@ credit_(IPTC):
 
 date_created_(IPTC):
 
-_path: /assets/
+_path: /assets/img/lvov_model_plan_1782_rev.jpg
 
 order:
 
