@@ -29,7 +29,7 @@ credit_(IPTC):
 
 date_created_(IPTC):
 
-_path:
+_path: /assets/
 
 order:
 
