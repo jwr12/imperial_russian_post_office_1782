@@ -1,12 +1,12 @@
 ---
 page: source
-title: Image_№1_from_Source
+title: Model District Post Office (1782)
 media_type: image
 
-_title: Apple tree
-description: Main page photo
-creator: Unknown
-_date: Unknown
+_title: Model District Post Office
+description: Scan of archival document
+creator: Nikolai L'vov
+_date: 1782
 rights: 
 type: 
 source:
@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: https://a.storyblok.com/f/116736/1000x666/97564b8080/main.jpeg 
+_path: assets/img/lvov_model_plan_1782_rev.jpg
 order: '01'
 layout: image_description
 ---
