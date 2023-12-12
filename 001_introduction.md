@@ -11,6 +11,6 @@ This edition's text and scholarly apparatus are all by John Randolph, Department
 
 I am adding some stuff here as a test. 
 
-{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
+{% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
 
-{% include media.html pages=media %} 
+{% include media.html pages=intro_images %} 
