@@ -16,3 +16,6 @@ I am adding some stuff here as a test.
 {% include media.html pages=intro_images %} 
 {% include media.html pages=intro_images %}
 {% include media.html pages=intro_images %}
+{% include media.html pages=intro_images %}
+{% include media.html pages=intro_images %}
+{% include media.html pages=intro_images %}
