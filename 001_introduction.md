@@ -14,8 +14,7 @@ I am adding some stuff here as a test.
 {% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
 
 {% include media.html pages=intro_images %} 
-{% include media.html pages=intro_images %}
-{% include media.html pages=intro_images %}
+
 
 {% assign new_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '02'" %} 
 {% include media.html pages=new_images %}
