@@ -17,9 +17,4 @@ Cite this edition:
 
 Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL, e.g. https://jwr12.github.io/imperial_russian_post_office_1782/*.
 
-
-{% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
-
-{% include media.html pages=intro_images %} 
-
 [^1]: "O postroike v Gubernskikh i Uezdnykh gorodov gorodakh dlia Pochtovykh Kontor i pochmeisterov domov," RGIA f. 1289, op. 1, d. 30, l. 17a.
