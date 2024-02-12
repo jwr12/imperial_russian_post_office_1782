@@ -11,7 +11,7 @@ This micro-edition presents an annotated digital copy of L'vov's plan, based on 
 
 The edition is meant to be used by researchers, teachers, students, and the public at large.  It licensed by the author for free use (with credit) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p> 
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
 
 Cite this edition:
 
