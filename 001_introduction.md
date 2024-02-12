@@ -9,7 +9,9 @@ In 1782, the Russian nobleman Nikolai L'vov prepared a "Model Plan for a Distric
 
 This micro-edition presents an annotated digital copy of L'vov's plan, based on an archival photograph taken in 2010.  An accompanying essay situates the drawing within L'vov's work, the grand reform of local administration undertaken by Catherine II in the 1770s and 1780s, and the longer history of relay service in the Russian Empire.  
 
-The edition is meant to be used by researchers, teachers, students, and the public at large.  It licensed by the author for free use (with credit) under a CC BY 4.0 license.
+The edition is meant to be used by researchers, teachers, students, and the public at large.  It licensed by the author for free use (with credit) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p> 
 
 Cite this edition:
 
