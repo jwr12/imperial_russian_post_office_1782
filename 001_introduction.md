@@ -13,6 +13,8 @@ The edition is meant to be used by researchers, teachers, students, and the publ
 
 Cite this edition:
 
+Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL, e.g. https://jwr12.github.io/imperial_russian_post_office_1782/*.
+
 
 {% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
 
