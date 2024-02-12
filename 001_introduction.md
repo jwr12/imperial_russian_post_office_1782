@@ -5,11 +5,14 @@ number: 001
 ---
 # Introduction
 
-This edition presents a model plan for a district post office in the Russian empire, from 1782.  The image presented here was created by archivists in the Russian State Historical Archive (RGIA) in the early 2010s. The original document--shot here as a photograph--can be found in the papers of the imperial Russian postal department's archive, RGIA f. 1289 op. 1 d. 30, p. 17a.  The plan was is signed (center) by Nikolai Aleksandrovich L'vov, its lead architect.
+In 1782, the Russian nobleman Nikolai L'vov prepared a "Model Plan for a District Post-Yard."  This drawing is preserved in St. Petersburg in a clean manuscript copy held by the Russian State Historical Archive.  As a source, L'vov's plan illuminates an important juncture in the history of imperial Russian communications.  It shows how one of the leading architects of the Russian Enlightenment imagined housing one of the Russian Empire's oldest practices--relay obligation--within the structures of the empire's newly-reformed provincial order.
 
-This edition's text and scholarly apparatus are all by John Randolph, Department of History, University of Illinois Urbana-Champaign.
+This micro-edition presents an annotated digital copy of L'vov's plan, based on an archival photograph taken in 2010.  An accompanying essay situates the drawing within L'vov's work, the grand reform of local administration undertaken by Catherine II in the 1770s and 1780s, and the longer history of relay service in the Russian Empire.  
 
-I am adding some stuff here as a test. 
+The edition is meant to be used by researchers, teachers, students, and the public at large.  It licensed by the author for free use (with credit) under a CC BY 4.0 license.
+
+Cite this edition:
+
 
 {% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
 
