@@ -20,8 +20,8 @@ NOTES:
 
 [^1]: Glumov, *N. A. L'vov*, 3-26; Budylina,et. al., ed., *Arkhitektor L'vov*, 7-10. 
 
-[^2]  De Madariaga, *Russia in the Age*, 383-384; Glumov, *N. A. L'vov*, 37-38; Budylina, et. al., ed., 10.
+[^2]:  De Madariaga, *Russia in the Age*, 383-384; Glumov, *N. A. L'vov*, 37-38; Budylina, et. al., ed., 10.
 
-[^3] Tatarinov, "Arkhitekturnye raboty," 372-393; Lappo-Danilevskii, "O literaturnom," 11; Randolph, *The House in the Garden*, 58.
+[^3]: Tatarinov, "Arkhitekturnye raboty," 372-393; Lappo-Danilevskii, "O literaturnom," 11; Randolph, *The House in the Garden*, 58.
 
 
