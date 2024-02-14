@@ -16,7 +16,7 @@ format: Oil.
 credit_(IPTC):
 date_created_(IPTC): 2019
 
-_path: assets/img/Levitskii_Lvov_1773.jpg
+_path: _path/assets/img/Levitskii_Lvov_1773.jpg
 order: '01'
 layout: image_description
 ---
