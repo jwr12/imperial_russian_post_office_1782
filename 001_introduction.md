@@ -5,7 +5,7 @@ number: 001
 ---
 # Introduction
 
-In 1782, the Russian nobleman Nikolai L'vov prepared a "Model Plan for a District Post-Yard."  This drawing is preserved in St. Petersburg in a clean manuscript copy held by the Russian State Historical Archive[^1].  As a source, L'vov's plan illuminates an important juncture in the history of imperial Russian communications.  It shows how L'vov sought to house the ancient imperial obligation of relay service within the emerging civilian architecture of Russia's Enlightenment.
+In 1782, the Russian nobleman Nikolai L'vov prepared a "Model Plan for a District Post-Yard."  A clean manuscript copy of this drawing is preserved today in the Russian State Historical Archive (St. Petersburg).[^1].  As a source, L'vov's plan illuminates an important juncture in the history of imperial Russian communications.  It shows how L'vov sought to house the ancient imperial obligation of relay service within the emerging civilian architecture of Russia's Enlightenment.
 
 This micro-edition presents an [annotated digital copy of L'vov's plan](https://jwr12.github.io/imperial_russian_post_office_1782/002_source.html), based on an archival photograph taken by the Russian State Historical Archive in 2010.  An accompanying [essay](https://jwr12.github.io/imperial_russian_post_office_1782/003_about_the_source.html) situates the drawing within L'vov's life, the grand reform of provincial administration undertaken by Catherine the Great in the 1770s and 1780s, and the longer imperial history of communications in the Russian Empire.  
 
