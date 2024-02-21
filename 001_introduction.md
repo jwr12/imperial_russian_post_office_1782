@@ -5,10 +5,6 @@ number: 001
 ---
 # Introduction
 
-{% assign Lvov_portrait = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
-
-{% include media.html pages= Lvov_portrait %} 
-
 Like most of history's overland empires, the Russian Empire relied on animal-powered relays (or "posts") to run its official communications, from its foundations in the late fifteenth century through its demise in the early twentieth.  
 
 First, tsarist officials identified routes along which they wanted to site relays.  They chose spots for relay stations at regular intervals (some 15-25 miles apart) along these roads.  They would then require local communities—as one of their obligations to the empire—to supply drivers, wagons, food, fodder, and shelter to these stations, and above all draft animals.  (This horse-power generally took the form of horses, but in some locations dogs, reindeer, and even human porters were used.).  Bouncing up to a such post, an imperial mail-carrier or courier would present his post-order, take fresh horses (or dogs or reindeer), wagons (or sleds), and local coachmen as needed, and proceed along to the next station. Soldiers and other servitors traveling on the tsars' business also traveled on this system. After the reign of Peter I (1689-1725), paying civilian travelers could buy post-orders as well. [^1]
