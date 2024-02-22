@@ -6,6 +6,15 @@ number: 003
 
 # About this Source
 
+By the reign of Catherine II, 'the Great' (1762-1796), the Russian Empire had four main types of postal stations. St. Petersburg, Moscow, and a few other major cities had central postal bureaus (called 'Post-Amts'), which housed the central bureaucracy that ran Russia's mails. Provincial capitals had smaller 'Post Offices' (*Pochtovye kontory*), where letters were both sent and received (to retrieve a letter, correspondents had to claim it at these offices; street address delivery did not begin in Russia's cities until the nineteenth century).  District towns had similar offices, sometimes called "Post-Yards" (*Pochtovye dvory*), bringing the mail still further into rural Russia.  At all of these urban locations, the relay's horses and drivers might or might not be located at or near the post offices.  The locations where these resources could be found—either in towns or on the roads that ran between them—were called *stany* or *stantsii*, that is, 'stations.'
+
+
+
+
+
+
+
+
 Nikolai Aleksandrovich L'vov was born on his family's serf estate, in northwest Russia, in 1751. At the age of sixteen, he left for St. Petersburg, and enrolled as an artilleryman in the prestigious Izmailovsky Regiment.  Before long, however, he transferred to civil service in the Empire's College of Foreign Affairs, under the protection of the powerful diplomat Petr Vasilievich Bakunin.  At Bakunin's house, he found himself surrounded by enthusiasts for the latest fashions in literature, music, theater, and art.  L'vov himself, who rapidly earned a reputation as a "genius of taste," showed remarkable talent in all of these areas. His education into a Renaissance man of Russian Enlightenment culture was completed in 1776-1777, when he accompanied an ailing patron on a tour around Europe, including stops in Cologne, the Netherlands, London, Paris, Madrid, and Rome.[^1]
 
 Upon his return to Russia, L'vov acquired a powerful new client: Aleksandr Andreevich Bezborodko (1747-1799). A senior colleague in the College of Foreign Affairs, Bezborodko had become Empress Catherine's personal secretary and *de facto* chancellor. No piece of correspondence-foreign or domestic-reached the empress without first passing through Bezborodko's hands, and the empress relied upon him to execute her most important plans.  Bezborodko, in turn, depended on L'vov to help realize them.
