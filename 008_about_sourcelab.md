@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About MinDoc
+title: About SourceLab
 number: 010
 ---
 
