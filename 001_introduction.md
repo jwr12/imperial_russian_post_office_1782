@@ -21,6 +21,17 @@ Cite this edition:
 
 Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL, e.g. https://jwr12.github.io/imperial_russian_post_office_1782/*.
 
+
+
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://digital.library.illinois.edu/items/1aa693f0-b087-0136-5269-0050569601ca-4/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-2589,-167,6970,3333" data-rotation="0" style="width:800px; height:600px; background-color: #000">&nbsp;
+</div>
+<script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js">
+</script>
+<script type="text/javascript">/* wordpress fix */</script>
+
+
+
+
 ----
 [^1]: Gurliand, *Iamskaia gon'ba*; Randolph, "Communication and Obligation."
 [^2]: RGIA f. 1289 op. 1 d. 30, p. 17a.
