@@ -23,7 +23,7 @@ Randolph, John. â€œModel Plan for a District Post-Yard, Russian Empire (1782).â€
 
 
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-2589,-167,6970,3333" data-rotation="0" style="width:800px; height:600px; background-color: #000">&nbsp;
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://github.com/jwr12/imperial_russian_post_office_1782/blob/main/assets/img/lvov_model_plan_1782_rev.jpg" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-2589,-167,6970,3333" data-rotation="0" style="width:800px; height:600px; background-color: #000">&nbsp;
 </div>
 <script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js">
 </script>
