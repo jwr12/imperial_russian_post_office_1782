@@ -17,7 +17,7 @@ This open, self-published edition is meant to be used by researchers, teachers, 
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
 
-Cite this edition:
+Cite this edition: 
 
 Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL, e.g. https://jwr12.github.io/imperial_russian_post_office_1782/*.
 
