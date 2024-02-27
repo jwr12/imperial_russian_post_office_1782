@@ -36,7 +36,7 @@ The center of the plan reads: "A sample arrangement for a post-yard, where space
 **Top Left**:
 This area provides a key to the first and second floor drawings (to the right) of the main post office.
 
-**First Floor**
+First Floor
 
 - a: Front entryway with a small counter (marked NB) for accepting mail.  
 - b: The mail office.  
@@ -46,7 +46,7 @@ This area provides a key to the first and second floor drawings (to the right) o
 - f. Kitchen.  
 - g. Servants' quarters.  
   
-**Second Floor**
+Second Floor
 
 1. Main staircase.
 2. Rooms for travelers.
