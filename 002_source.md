@@ -17,7 +17,7 @@ Model District Post Office
 
 ## Key
 
-### Bottom Left: 
+**Bottom Left:** 
 In this view from above, the Post-Yard is shown as a square courtyard, its main building (bottom center, grey cube) facing out to the road, flanked by gates.  
 
 Along the edges of the courtyard, you have (proceeding clockwise from bottom left):
@@ -33,20 +33,20 @@ Along the edges of the courtyard, you have (proceeding clockwise from bottom lef
 
 The center of the plan reads: "A sample arrangement for a post-yard, where space allows."
 
-### Top Left:
+**Top Left**:
 This area provides a key to the first and second floor drawings (to the right) of the main post office.
 
-#### First Floor
+**First Floor**
 
-a: Front entryway with a small counter (marked NB) for accepting mail.  
-b: The mail office.  
-c. A room for travelers and mail carriers (*pochtarei*).  
-d. Staircase up.  
-e. Rear entryway.  
-f. Kitchen.  
-g. Servants' quarters.  
+- a: Front entryway with a small counter (marked NB) for accepting mail.  
+- b: The mail office.  
+- c. A room for travelers and mail carriers (*pochtarei*).  
+- d. Staircase up.  
+- e. Rear entryway.  
+- f. Kitchen.  
+- g. Servants' quarters.  
   
-#### Second Floor
+**Second Floor**
 
 1. Main staircase.
 2. Rooms for travelers.
@@ -55,13 +55,13 @@ g. Servants' quarters.
 5. Rear entryway (second floor).
 6. Rear stairs.
 
-### Top right
+**Top right**
 Facade, main office building.
 
-### Right Middle
+**Right Middle**
 Second floor, main office (drawing).
 
-### Bottom Right
+**Bottom Right**
 First floor, main office (drawing).
 
 At the bottom there are two measurement scales to show lengths.  Both mark units called *sazheni,* a length of about 2.16 meters (or roughly 7 feet.)
