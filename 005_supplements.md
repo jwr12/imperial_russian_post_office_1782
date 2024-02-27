@@ -5,4 +5,6 @@ number: 005
 ---
 
 # Supplements
-No supplements.
+{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'Supplements'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.media_type == 'image'" %}
+
+{% include media.html pages=media %}
