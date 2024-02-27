@@ -1,5 +1,5 @@
 ---
-page: introduction
+page: Supplements
 title: Portrait of Nikolai L'vov (1773)
 media_type: image
 
