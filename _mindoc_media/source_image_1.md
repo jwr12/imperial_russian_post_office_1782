@@ -16,7 +16,7 @@ format: MS
 credit_(IPTC): Digitization courtesy of RGIA
 date_created_(IPTC): 2010
 
-_path: /assets/img/lvov_model_plan_1782_rev.jpg
+_path: assets/img/lvov_model_plan_1782_rev.jpg
 order: '01'
 layout: image_description
 ---
