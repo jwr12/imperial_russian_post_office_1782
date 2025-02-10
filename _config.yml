@@ -7,6 +7,7 @@ baseurl: "/imperial_russian_post_office_1782" # the subpath of your site. Change
 twitter_username: jekyllrb
 github_username:  jekyll
 
+fontchoice: slab # A funky slab font with clean sans-serif accents
 # Build settings
 
 plugins:
