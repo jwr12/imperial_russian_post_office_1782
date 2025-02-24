@@ -19,8 +19,6 @@ From the beginning, Catherine claimed to be worried about the burdens this incre
 
 To create designs for these locations, Bezborodko turned to L'vov.  It is not entirely clear how, or even when, the young man acquired his architectural training.  During his European journey of 1776-1777, L'vov saw many major European cities and no sketched and took notes about what he saw.  His first major project—a cathedral to commemorate the meeting between Catherine and the Habsburg Emperor Joseph II in 1780—pleased the Russian Empress greatly.  She sent him abroad again, this time to study art and architecture in earnest for six months, mostly in Italy.  When he returned, he brought a beautiful four-volume edition of Andrea Palladio's _The Four Books of Architecture_ with him.  Across the next two decades, he became one of neoclassical architecture's great exponents in Russia, building dozens of public buildings, churches, and civilian estates in Moscow, St. Petersburg, and Tver Province.[^9]
 
-*to be completed*
-
 [^1]: Glumov, *N. A. L'vov*, 3-26; Budylina,et. al., ed., *Arkhitektor L'vov*, 7-10. 
 [^2]: Glumov, *N. A. L'vov*, 37-38.
 [^3]: Boiarchenkova, “Aleksandr Andreevich Bezborodko," 22; Grigorovich, *Kantsler i Kniaz’*, 136–54.
