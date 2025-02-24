@@ -4,15 +4,6 @@ title: About this Source
 number: 003
 ---
 
-## About this Source
-
-
----
-layout: default
-title: About this Source
-number: 003
----
-
 # About this Source
 Nikolai Aleksandrovich L'vov was born on his family's serf estate, in northwest Russia, in 1751. At the age of sixteen, he left for St. Petersburg, and enrolled as an artilleryman in the prestigious Izmailovsky Regiment.  Before long, however, he transferred to civil service in the Empire's College of Foreign Affairs, under the protection of the powerful diplomat Petr Vasilievich Bakunin.  At Bakunin's house, he was surrounded by enthusiasts for the latest European fashions in literature, music, theater, and art.  Young L'vov himself rapidly earned a reputation as a gifted "genius of taste," showing remarkable talent in all of these areas.  His education into a Renaissance man of Russian Enlightenment culture was completed in 1776-1777, when he accompanied an ailing patron on a tour around Europe, including stops in Cologne, the Netherlands, London, Paris, Madrid, and Rome.[^1]
 
